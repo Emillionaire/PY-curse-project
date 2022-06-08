@@ -1,0 +1,4 @@
+TOKEN_VK=
+TOKEN_YD=
+target_user=begemot_korovin
+quantity_files=3
